@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Existing User",
+      "job": "Tester"
+    },
+    {
+      "id": "a841",
+      "name": "QA Tester",
+      "job": "Automation Engineer"
+    },
+    {
+      "id": "c8c1",
+      "name": "QA Tester",
+      "job": "Automation Engineer"
+    },
+    {
+      "id": "3de6",
+      "name": "QA Tester",
+      "job": "Automation Engineer"
+    }
+  ]
+}
