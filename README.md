@@ -32,23 +32,23 @@ package.json # Dependencies & scripts
 
 ## ⚡ Getting Started
 
-### 1️⃣ Install dependencies
+### 1 Install dependencies
 ```bash
 npm install
 npx playwright install
 
 ```
-### 2️⃣ Start mock API
+### 2 Start mock API
 ```bash
 npm run start:api
 
 ```
-### 3️⃣ Run all tests
+### 3 Run all tests
 ```bash
 npx playwright test
 ```
 
-### 4️⃣ View test report
+### 4 View test report
 ```bash 
 npx playwright show-report
 ```
@@ -63,3 +63,7 @@ Tag	What it runs
 ```bash
 npx playwright test -g @login
 ```
+## Snapshots
+*This photo encompasses a few tests within this repository*
+
+<img width="961" height="556" alt="2025-10-31" src="https://github.com/user-attachments/assets/a72008e3-a3d1-4763-9615-8fb85fd76177" />
